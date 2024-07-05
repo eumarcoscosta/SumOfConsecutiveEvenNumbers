@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B3F26229-BC63-4EAB-9D84-001878D17F94}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SumofConsecutiveEvenNumbers/Program.cs">
+    <Files>
+      <File FileName="SumofConsecutiveEvenNumbers/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SumofConsecutiveEvenNumbers " expanded="True">
+            <Node name="SumofConsecutiveEvenNumbers">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SumofConsecutiveEvenNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
